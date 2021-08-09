@@ -1,0 +1,866 @@
+[
+  [
+    "clothes",
+    "astro"
+  ],
+  [
+    "clothes",
+    "astro black"
+  ],
+  [
+    "clothes",
+    "astro orange"
+  ],
+  [
+    "clothes",
+    "bandana green"
+  ],
+  [
+    "clothes",
+    "bandana purple"
+  ],
+  [
+    "clothes",
+    "bandana red"
+  ],
+  [
+    "clothes",
+    "baseball blue"
+  ],
+  [
+    "clothes",
+    "baseball red"
+  ],
+  [
+    "clothes",
+    "buttondown black flannel"
+  ],
+  [
+    "clothes",
+    "buttondown blue flannel"
+  ],
+  [
+    "clothes",
+    "buttondown green"
+  ],
+  [
+    "clothes",
+    "buttondown red flannel"
+  ],
+  [
+    "clothes",
+    "buttondown tan"
+  ],
+  [
+    "clothes",
+    "chain"
+  ],
+  [
+    "clothes",
+    "combat black"
+  ],
+  [
+    "clothes",
+    "combat green"
+  ],
+  [
+    "clothes",
+    "costume dragon"
+  ],
+  [
+    "clothes",
+    "costume frog"
+  ],
+  [
+    "clothes",
+    "costume gorilla"
+  ],
+  [
+    "clothes",
+    "costume hotdog"
+  ],
+  [
+    "clothes",
+    "cowboy black"
+  ],
+  [
+    "clothes",
+    "cowboy brown"
+  ],
+  [
+    "clothes",
+    "deepsea bronze"
+  ],
+  [
+    "clothes",
+    "deepsea orange"
+  ],
+  [
+    "clothes",
+    "epaulette black"
+  ],
+  [
+    "clothes",
+    "epaulette red"
+  ],
+  [
+    "clothes",
+    "epaulette white"
+  ],
+  [
+    "clothes",
+    "gown black"
+  ],
+  [
+    "clothes",
+    "gown purple"
+  ],
+  [
+    "clothes",
+    "gown white"
+  ],
+  [
+    "clothes",
+    "hoodie black"
+  ],
+  [
+    "clothes",
+    "hoodie purple"
+  ],
+  [
+    "clothes",
+    "hoodie red"
+  ],
+  [
+    "clothes",
+    "knight"
+  ],
+  [
+    "clothes",
+    "knight black"
+  ],
+  [
+    "clothes",
+    "knight leather"
+  ],
+  [
+    "clothes",
+    "labcoat"
+  ],
+  [
+    "clothes",
+    "lederhosen"
+  ],
+  [
+    "clothes",
+    "monk"
+  ],
+  [
+    "clothes",
+    "mononoke"
+  ],
+  [
+    "clothes",
+    "ninja black"
+  ],
+  [
+    "clothes",
+    "ninja blue"
+  ],
+  [
+    "clothes",
+    "ninja red"
+  ],
+  [
+    "clothes",
+    "nurse"
+  ],
+  [
+    "clothes",
+    "overalls blue"
+  ],
+  [
+    "clothes",
+    "overalls flannel"
+  ],
+  [
+    "clothes",
+    "overalls pink"
+  ],
+  [
+    "clothes",
+    "overalls red"
+  ],
+  [
+    "clothes",
+    "overalls yellow"
+  ],
+  [
+    "clothes",
+    "pirate black"
+  ],
+  [
+    "clothes",
+    "pirate red"
+  ],
+  [
+    "clothes",
+    "punk"
+  ],
+  [
+    "clothes",
+    "robe blue"
+  ],
+  [
+    "clothes",
+    "robe king"
+  ],
+  [
+    "clothes",
+    "robe red"
+  ],
+  [
+    "clothes",
+    "robe white"
+  ],
+  [
+    "clothes",
+    "shirt bowtie"
+  ],
+  [
+    "clothes",
+    "shirt white"
+  ],
+  [
+    "clothes",
+    "shirt yellow"
+  ],
+  [
+    "clothes",
+    "sweater black"
+  ],
+  [
+    "clothes",
+    "sweater green chain"
+  ],
+  [
+    "clothes",
+    "sweater orange"
+  ],
+  [
+    "clothes",
+    "sweater pink"
+  ],
+  [
+    "clothes",
+    "tanktop orange"
+  ],
+  [
+    "clothes",
+    "tanktop pink"
+  ],
+  [
+    "clothes",
+    "tanktop sailor black"
+  ],
+  [
+    "clothes",
+    "tanktop sailor blue"
+  ],
+  [
+    "clothes",
+    "tanktop sailor red"
+  ],
+  [
+    "clothes",
+    "tanktop tattoo"
+  ],
+  [
+    "clothes",
+    "tanktop white"
+  ],
+  [
+    "clothes",
+    "tiger"
+  ],
+  [
+    "clothes",
+    "toga"
+  ],
+  [
+    "clothes",
+    "tshirt blue"
+  ],
+  [
+    "clothes",
+    "tshirt green"
+  ],
+  [
+    "clothes",
+    "tshirt metal"
+  ],
+  [
+    "clothes",
+    "tshirt pink"
+  ],
+  [
+    "clothes",
+    "tshirt red"
+  ],
+  [
+    "clothes",
+    "tshirt white"
+  ],
+  [
+    "clothes",
+    "tshirt yellow"
+  ],
+  [
+    "clothes",
+    "viking brown"
+  ],
+  [
+    "clothes",
+    "viking navy"
+  ],
+  [
+    "clothes",
+    "wetsuit"
+  ],
+  [
+    "clothes",
+    "winter blue"
+  ],
+  [
+    "clothes",
+    "winter red"
+  ],
+  [
+    "clothes",
+    "work blue"
+  ],
+  [
+    "clothes",
+    "work red"
+  ],
+  [
+    "face",
+    "angry"
+  ],
+  [
+    "face",
+    "angry cute"
+  ],
+  [
+    "face",
+    "angry scar"
+  ],
+  [
+    "face",
+    "beard brown"
+  ],
+  [
+    "face",
+    "beard pirate"
+  ],
+  [
+    "face",
+    "beard tan"
+  ],
+  [
+    "face",
+    "derp"
+  ],
+  [
+    "face",
+    "ditto"
+  ],
+  [
+    "face",
+    "dizzy"
+  ],
+  [
+    "face",
+    "double face"
+  ],
+  [
+    "face",
+    "face face"
+  ],
+  [
+    "face",
+    "glasses"
+  ],
+  [
+    "face",
+    "glasses funny"
+  ],
+  [
+    "face",
+    "glossy"
+  ],
+  [
+    "face",
+    "grin"
+  ],
+  [
+    "face",
+    "happy"
+  ],
+  [
+    "face",
+    "happy cute"
+  ],
+  [
+    "face",
+    "hearts"
+  ],
+  [
+    "face",
+    "mononoke"
+  ],
+  [
+    "face",
+    "mummy"
+  ],
+  [
+    "face",
+    "ninja black"
+  ],
+  [
+    "face",
+    "ninja blue"
+  ],
+  [
+    "face",
+    "ninja red"
+  ],
+  [
+    "face",
+    "owo"
+  ],
+  [
+    "face",
+    "pixel"
+  ],
+  [
+    "face",
+    "rich"
+  ],
+  [
+    "face",
+    "shocked"
+  ],
+  [
+    "face",
+    "smirk"
+  ],
+  [
+    "face",
+    "stunned"
+  ],
+  [
+    "face",
+    "sunglasses blue"
+  ],
+  [
+    "face",
+    "sunglasses cool"
+  ],
+  [
+    "face",
+    "sunglasses cowboy"
+  ],
+  [
+    "face",
+    "sunglasses heart"
+  ],
+  [
+    "face",
+    "sunglasses pixel"
+  ],
+  [
+    "face",
+    "sunglasses squad"
+  ],
+  [
+    "face",
+    "sunglasses yellow"
+  ],
+  [
+    "face",
+    "three eyes"
+  ],
+  [
+    "face",
+    "tired"
+  ],
+  [
+    "face",
+    "tvface 404"
+  ],
+  [
+    "face",
+    "tvface bobross"
+  ],
+  [
+    "face",
+    "tvface nosignal"
+  ],
+  [
+    "face",
+    "tvface xp"
+  ],
+  [
+    "face",
+    "unamused"
+  ],
+  [
+    "face",
+    "uwu"
+  ],
+  [
+    "face",
+    "wink"
+  ],
+  [
+    "face",
+    "zombie"
+  ],
+  [
+    "hat",
+    "admiral"
+  ],
+  [
+    "hat",
+    "admiral pink"
+  ],
+  [
+    "hat",
+    "afro black"
+  ],
+  [
+    "hat",
+    "afro brown"
+  ],
+  [
+    "hat",
+    "afro rainbow unicorn"
+  ],
+  [
+    "hat",
+    "antlers"
+  ],
+  [
+    "hat",
+    "apple"
+  ],
+  [
+    "hat",
+    "arrowhead"
+  ],
+  [
+    "hat",
+    "astro"
+  ],
+  [
+    "hat",
+    "astro cheeks"
+  ],
+  [
+    "hat",
+    "astro fishbowl"
+  ],
+  [
+    "hat",
+    "beanie black"
+  ],
+  [
+    "hat",
+    "beanie blue"
+  ],
+  [
+    "hat",
+    "beanie orange"
+  ],
+  [
+    "hat",
+    "beanie red"
+  ],
+  [
+    "hat",
+    "beret black"
+  ],
+  [
+    "hat",
+    "beret green"
+  ],
+  [
+    "hat",
+    "beret pink"
+  ],
+  [
+    "hat",
+    "beret red"
+  ],
+  [
+    "hat",
+    "bow"
+  ],
+  [
+    "hat",
+    "bucket hat blue"
+  ],
+  [
+    "hat",
+    "bucket hat green"
+  ],
+  [
+    "hat",
+    "bucket hat tan"
+  ],
+  [
+    "hat",
+    "bucket hat white"
+  ],
+  [
+    "hat",
+    "candle"
+  ],
+  [
+    "hat",
+    "costume dragon"
+  ],
+  [
+    "hat",
+    "costume frog"
+  ],
+  [
+    "hat",
+    "costume gorilla"
+  ],
+  [
+    "hat",
+    "cowboy black"
+  ],
+  [
+    "hat",
+    "cowboy brown"
+  ],
+  [
+    "hat",
+    "crown black"
+  ],
+  [
+    "hat",
+    "crown fire"
+  ],
+  [
+    "hat",
+    "crown gold"
+  ],
+  [
+    "hat",
+    "cupcake"
+  ],
+  [
+    "hat",
+    "deepsea bronze"
+  ],
+  [
+    "hat",
+    "deepsea orange"
+  ],
+  [
+    "hat",
+    "dutch"
+  ],
+  [
+    "hat",
+    "flower blue"
+  ],
+  [
+    "hat",
+    "flower pink"
+  ],
+  [
+    "hat",
+    "flower red"
+  ],
+  [
+    "hat",
+    "goggles seaweed"
+  ],
+  [
+    "hat",
+    "halo"
+  ],
+  [
+    "hat",
+    "halo fire"
+  ],
+  [
+    "hat",
+    "hat black"
+  ],
+  [
+    "hat",
+    "hat skull"
+  ],
+  [
+    "hat",
+    "hat visor blue"
+  ],
+  [
+    "hat",
+    "hat visor yellow"
+  ],
+  [
+    "hat",
+    "hat white"
+  ],
+  [
+    "hat",
+    "headband blue"
+  ],
+  [
+    "hat",
+    "headband red"
+  ],
+  [
+    "hat",
+    "helm army"
+  ],
+  [
+    "hat",
+    "helm biker"
+  ],
+  [
+    "hat",
+    "helm bronze"
+  ],
+  [
+    "hat",
+    "helm silver"
+  ],
+  [
+    "hat",
+    "horns"
+  ],
+  [
+    "hat",
+    "knight black"
+  ],
+  [
+    "hat",
+    "knight blue"
+  ],
+  [
+    "hat",
+    "knight red"
+  ],
+  [
+    "hat",
+    "mohawk green"
+  ],
+  [
+    "hat",
+    "mohawk purple"
+  ],
+  [
+    "hat",
+    "mohawk red"
+  ],
+  [
+    "hat",
+    "mullet blonde"
+  ],
+  [
+    "hat",
+    "mullet brown"
+  ],
+  [
+    "hat",
+    "ninja black"
+  ],
+  [
+    "hat",
+    "ninja blue"
+  ],
+  [
+    "hat",
+    "ninja red"
+  ],
+  [
+    "hat",
+    "nurse"
+  ],
+  [
+    "hat",
+    "piercings"
+  ],
+  [
+    "hat",
+    "pirate black"
+  ],
+  [
+    "hat",
+    "pirate red"
+  ],
+  [
+    "hat",
+    "prince"
+  ],
+  [
+    "hat",
+    "sunhat black"
+  ],
+  [
+    "hat",
+    "sunhat tan"
+  ],
+  [
+    "hat",
+    "sunhat white"
+  ],
+  [
+    "hat",
+    "sushi"
+  ],
+  [
+    "hat",
+    "top hat"
+  ],
+  [
+    "hat",
+    "tvhead grey"
+  ],
+  [
+    "hat",
+    "tvhead purple"
+  ],
+  [
+    "hat",
+    "tvhead white"
+  ],
+  [
+    "hat",
+    "unicorn horn"
+  ],
+  [
+    "hat",
+    "visor green"
+  ],
+  [
+    "hat",
+    "visor purple"
+  ],
+  [
+    "hat",
+    "wreath"
+  ],
+  [
+    "hat",
+    "wreath flowers"
+  ]
+]
